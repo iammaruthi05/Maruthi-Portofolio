@@ -1,2 +1,2 @@
-# Maruthi-Portofolio
-My personal portofolio 
+# Maruthi Portfolio
+My personal portfolio 
